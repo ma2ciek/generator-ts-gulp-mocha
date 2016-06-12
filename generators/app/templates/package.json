@@ -1,0 +1,12 @@
+{
+  "name": "ts-gulp-mocha-generator",
+  "version": "0.0.1",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0",
+    "gulp-typescript": "^2.13.6",
+    "run-sequence": "^1.2.1",
+    "typings": "^1.0.5"
+  }
+}
