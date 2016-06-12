@@ -19,7 +19,7 @@ gulp.task('ts', ['del'], function () {
 });
 
 gulp.task('tests', function () {
-    return gulp.src('src/**/*-spec.ts')
+    return gulp.src('build/**/*-spec.js')
         .pipe(mocha({
             reporter: 'nyan'
         }));
