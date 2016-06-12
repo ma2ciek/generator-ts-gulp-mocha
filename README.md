@@ -1,9 +1,9 @@
-# generator-gen [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-ts-gulp-mocha [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > 
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-gen using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-ts-gulp-mocha using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
@@ -28,11 +28,11 @@ yo ts-gulp-mocha
 MIT © [Maciej]()
 
 
-[npm-image]: https://badge.fury.io/js/generator-gen.svg
-[npm-url]: https://npmjs.org/package/generator-gen
-[travis-image]: https://travis-ci.org/ma2ciek/generator-gen.svg?branch=master
-[travis-url]: https://travis-ci.org/ma2ciek/generator-gen
-[daviddm-image]: https://david-dm.org/ma2ciek/generator-gen.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/ma2ciek/generator-gen
-[coveralls-image]: https://coveralls.io/repos/ma2ciek/generator-gen/badge.svg
-[coveralls-url]: https://coveralls.io/r/ma2ciek/generator-gen
+[npm-image]: https://badge.fury.io/js/generator-ts-gulp-mocha.svg
+[npm-url]: https://npmjs.org/package/generator-ts-gulp-mocha
+[travis-image]: https://travis-ci.org/ma2ciek/generator-ts-gulp-mocha.svg?branch=master
+[travis-url]: https://travis-ci.org/ma2ciek/generator-ts-gulp-mocha
+[daviddm-image]: https://david-dm.org/ma2ciek/generator-ts-gulp-mocha.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/ma2ciek/generator-ts-gulp-mocha
+[coveralls-image]: https://coveralls.io/repos/ma2ciek/generator-ts-gulp-mocha/badge.svg
+[coveralls-url]: https://coveralls.io/r/ma2ciek/generator-ts-gulp-mocha
