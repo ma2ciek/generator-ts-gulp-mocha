@@ -8,5 +8,6 @@
     "gulp-typescript": "^2.13.6",
     "run-sequence": "^1.2.1",
     "typings": "^1.0.5"
-  }
+  },
+  "install": "typings install"
 }
